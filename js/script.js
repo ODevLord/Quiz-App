@@ -128,35 +128,35 @@
    * Generate question and answer sets.
    */
   function questionAnswerCreator() {
-    quiz.add('What is the capital of Andhra Pradesh?', 'Hyderabad');
-    quiz.add('What is the capital of Arunachal Pradesh?', 'Itanagar');
-    quiz.add('What is the capital of Assam?', 'Dispur');
-    quiz.add('What is the capital of Bihar?', 'Patna');
-    quiz.add('What is the capital of Chhattisgarh?', 'Raipur');
-    quiz.add('What is the capital of Goa?', 'Panaji');
-    quiz.add('What is the capital of Gujarat?', 'Gandhinagar');
-    quiz.add('What is the capital of Haryana?', 'Chandigarh');
-    quiz.add('What is the capital of Himachal Pradesh?', 'Shimla');
-    quiz.add('What is the capital of Jammu and Kashmir?', 'Srinagar');
-    quiz.add('What is the capital of Jhakhand?', 'Ranchi');
-    quiz.add('What is the capital of Karnataka?', 'Bengaluru');
-    quiz.add('What is the capital of Kerala?', 'Thiruvananthapuram');
-    quiz.add('What is the capital of Madhya Pradesh?', 'Bhopal');
-    quiz.add('What is the capital of Maharashtra?', 'Mumbai');
-    quiz.add('What is the capital of Manipur?', 'Imphal');
-    quiz.add('What is the capital of Meghalaya?', 'Shillong');
-    quiz.add('What is the capital of Mizoram?', 'Aizawl');
-    quiz.add('What is the capital of Nagaland?', 'Kohima');
-    quiz.add('What is the capital of Odisha?', 'Bhubaneswar');
-    quiz.add('What is the capital of Punjab?', 'Chandigarh');
-    quiz.add('What is the capital of Rajasthan?', 'Jaipur');
-    quiz.add('What is the capital of Sikkim?', 'Gangtok');
-    quiz.add('What is the capital of Tamil Nadu?', 'Chennai');
-    quiz.add('What is the capital of Telangana?', 'Hyderabad');
-    quiz.add('What is the capital of Tripura?', 'Agartala');
-    quiz.add('What is the capital of Uttar Pradesh?', 'Lucknow');
-    quiz.add('What is the capital of Uttarakhand?', 'Dehradun');
-    quiz.add('What is the capital of West Bengal?', 'Kolkata');
+    quiz.add('What is the capital of Andhra Pradesh?', 'Hyderabad')
+      .add('What is the capital of Arunachal Pradesh?', 'Itanagar')
+      .add('What is the capital of Assam?', 'Dispur')
+      .add('What is the capital of Bihar?', 'Patna')
+      .add('What is the capital of Chhattisgarh?', 'Raipur')
+      .add('What is the capital of Goa?', 'Panaji')
+      .add('What is the capital of Gujarat?', 'Gandhinagar')
+      .add('What is the capital of Haryana?', 'Chandigarh')
+      .add('What is the capital of Himachal Pradesh?', 'Shimla')
+      .add('What is the capital of Jammu and Kashmir?', 'Srinagar')
+      .add('What is the capital of Jhakhand?', 'Ranchi')
+      .add('What is the capital of Karnataka?', 'Bengaluru')
+      .add('What is the capital of Kerala?', 'Thiruvananthapuram')
+      .add('What is the capital of Madhya Pradesh?', 'Bhopal')
+      .add('What is the capital of Maharashtra?', 'Mumbai')
+      .add('What is the capital of Manipur?', 'Imphal')
+      .add('What is the capital of Meghalaya?', 'Shillong')
+      .add('What is the capital of Mizoram?', 'Aizawl')
+      .add('What is the capital of Nagaland?', 'Kohima')
+      .add('What is the capital of Odisha?', 'Bhubaneswar')
+      .add('What is the capital of Punjab?', 'Chandigarh')
+      .add('What is the capital of Rajasthan?', 'Jaipur')
+      .add('What is the capital of Sikkim?', 'Gangtok')
+      .add('What is the capital of Tamil Nadu?', 'Chennai')
+      .add('What is the capital of Telangana?', 'Hyderabad')
+      .add('What is the capital of Tripura?', 'Agartala')
+      .add('What is the capital of Uttar Pradesh?', 'Lucknow')
+      .add('What is the capital of Uttarakhand?', 'Dehradun')
+      .add('What is the capital of West Bengal?', 'Kolkata');
   }
 
   /*
